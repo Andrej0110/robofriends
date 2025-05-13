@@ -57,6 +57,7 @@ Production build:npm run build
  The build output will be in the dist folder, ready for deployment.
 
 Project Structure
+
 ![image](https://github.com/user-attachments/assets/720a8f90-e234-4a97-9888-550e9325c9c3)
 
 Deployment
