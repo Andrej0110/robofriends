@@ -57,22 +57,7 @@ Production build:npm run build
  The build output will be in the dist folder, ready for deployment.
 
 Project Structure
-robofriends/
-├── dist/                # Build output (not versioned)
-├── node_modules/        # Dependencies (not versioned)
-├── public/             # Static assets
-├── src/                # Source code
-│   ├── assets/         # Images and other resources
-│   ├── components/     # React components
-│   ├── App.jsx         # Main component
-│   ├── index.css       # Global styling
-│   ├── main.jsx        # Entry point
-├── .gitignore          # Ignored files/folders
-├── eslint.config.js    # ESLint configuration
-├── index.html          # HTML entry point
-├── package.json        # Project dependencies and scripts
-├── README.md           # This file
-├── vite.config.js      # Vite configuration
+![image](https://github.com/user-attachments/assets/720a8f90-e234-4a97-9888-550e9325c9c3)
 
 Deployment
 To deploy the app (e.g., to GitHub Pages):
